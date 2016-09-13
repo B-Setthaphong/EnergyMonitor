@@ -1,0 +1,11 @@
+<soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <GetSharePointListXML xmlns="http://energinet.dk/FlashProxy">
+      <sSiteUrl>http://energinet.dk/</sSiteUrl>
+      <sListGUID>92446C99-A9CC-438E-BA20-12A38BEF2273</sListGUID>
+      <sViewGUID/>
+      <sFieldsList/>
+      <sQuery/>
+    </GetSharePointListXML>
+  </soap:Body>
+</soap:Envelope>
